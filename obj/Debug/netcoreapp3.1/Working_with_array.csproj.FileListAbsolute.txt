@@ -1,0 +1,11 @@
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\obj\Debug\netcoreapp3.1\Working_with_array.AssemblyInfoInputs.cache
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\obj\Debug\netcoreapp3.1\Working_with_array.AssemblyInfo.cs
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\bin\Debug\netcoreapp3.1\Working_with_array.exe
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\bin\Debug\netcoreapp3.1\Working_with_array.deps.json
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\bin\Debug\netcoreapp3.1\Working_with_array.runtimeconfig.json
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\bin\Debug\netcoreapp3.1\Working_with_array.runtimeconfig.dev.json
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\bin\Debug\netcoreapp3.1\Working_with_array.dll
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\bin\Debug\netcoreapp3.1\Working_with_array.pdb
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\obj\Debug\netcoreapp3.1\Working_with_array.dll
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\obj\Debug\netcoreapp3.1\Working_with_array.pdb
+C:\Users\SashaMois\source\repos\C#\Working_with_array\Working_with_array\obj\Debug\netcoreapp3.1\Working_with_array.csprojAssemblyReference.cache
