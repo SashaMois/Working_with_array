@@ -94,19 +94,13 @@ namespace Working_with_array
                     int.TryParse(readed, out action);
                     if (action <= 0 || action > COUNT_OF_VARIANTS)
                         Console.WriteLine("Your choose doesn't exist! Please, try again.");
-                    else if (action == 25)
-                    {
-                        Console.WriteLine("Good Bye!");
-                        Console.Write("Press any key to close the program...");
-                        Console.ReadKey();
-                        return;
-                    }
                     else
                         break;
 
                 } while (true);
 
-                bool isSave;
+                bool isSave = false;
+                if (action != 25 && action != 26 && action != 27)
                 {
                     Console.Write("Will this action change array or save its result in variable?(y/n)...");
 
@@ -575,10 +569,25 @@ namespace Working_with_array
                                 Console.WriteLine();
                             }
                             break;
+                        case 25:
+                            Console.Write("\nCurrent state of array:");
+                            for (int i = 0; i < array.Length; ++i)
+                                Console.Write($"{array[i]} ");
+                            Console.WriteLine();
+                            break;
+                        case 26:
+                            Console.WriteLine("\nCurrent state of variable: " + result);
+                            break;
+                        case 27:
+                            Console.WriteLine("\nGood Bye!");
+                            Console.WriteLine("Press any key for close the program...");
+                            Console.ReadKey();
+                            return;
                     }
                 }
         
                 // input current state of array and variable
+                if (action != 25 && action != 26)
                 {
                     Console.Write("Current state of array: ");
                     for (int i = 0; i < array.Length; ++i)
